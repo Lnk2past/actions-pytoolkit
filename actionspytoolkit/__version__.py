@@ -1,0 +1,6 @@
+__title__ = 'actionspytoolkit'
+__description__ = 'GitHub Actions Development Tools in Python.'
+__url__ = 'https://github.com/Lnk2past/actions-pytoolkit'
+__version__ = '2020.0.0'
+__author__ = 'Lnk2past'
+__license__ = 'MIT'
