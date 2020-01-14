@@ -18,7 +18,7 @@ def warning(message, name=None, line=None, col=None):
     print(f'::warning {_format_file_location(name, line, col)}::{message}')
 
 
-def error():
+def error(message, name=None, line=None, col=None):
     print(f'::error {_format_file_location(name, line, col)}::{message}')
 
 
